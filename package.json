@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "build": "tsc -p",
+    "build": "tsc -p .",
     "start": "node dist/index"
   },
   "author": "",
